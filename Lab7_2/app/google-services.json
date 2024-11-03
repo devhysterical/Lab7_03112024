@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015569200906",
+    "project_id": "lab7contacts",
+    "storage_bucket": "lab7contacts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015569200906:android:7a1f54dcaedde992f4acf3",
+        "android_client_info": {
+          "package_name": "com.example.lab7_contactsmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ILxp0SkpNP0VIZS2aJybfRNvp4ZBRes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42449288446",
+    "project_id": "lab07-401a6",
+    "storage_bucket": "lab07-401a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42449288446:android:38fcd2eaa9fdfe69ecf9af",
+        "android_client_info": {
+          "package_name": "com.example.lab7_notesmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxlj5VyQT3_GovO0UEPxnGULXn0rV4oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
